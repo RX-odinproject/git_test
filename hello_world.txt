@@ -1,0 +1,2 @@
+Hello, odin project!
+One more example of possible text.
