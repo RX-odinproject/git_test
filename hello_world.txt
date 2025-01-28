@@ -1,2 +1,3 @@
 Hello, odin project!
 One more example of possible text.
+The third line of text in order to check how commit message works.
